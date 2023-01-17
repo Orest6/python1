@@ -1,0 +1,102 @@
+*{
+margin:0;
+padding:0;
+}
+header{
+background-color:grey;
+width:100%;
+height:100px;
+display:flex;
+}
+
+.head{
+width:100%;
+height:100px;
+}
+.head div{
+width:100%;
+height:100px;
+border:1px solid red;
+}
+#about{
+    width:100%;
+    height:500px;
+    background-color:coral;
+}
+#info{
+width:100%;
+height:500px;
+background-color:firebrick;
+}
+footer{
+width:100%;
+height:300px;
+background-color: slategrey;
+}
+#white{
+font:40px Arial;
+position:absolute;
+top:25px;
+}
+a:hover{
+text-decoration:none;
+color:black;
+}
+a{
+text-decoration:none;
+color:black;
+}
+#empty{
+font: 30px Arial;
+position:absolute;
+top:30px;
+left:100px;
+}
+#home{
+font:30px Arial;
+position:absolute;
+top:30px;
+left:275px;
+}
+#aboutus{
+font:30px Arial;
+position:absolute;
+top:30px;
+left:400px;
+}
+#projects{
+font:30px Arial;
+position:absolute;
+top:30px;
+left:590px;
+}
+#team{
+font:30px Arial;
+position:absolute;
+top:30px;
+left:775px;
+}
+#news{
+font:30px Arial;
+position:absolute;
+top:30px;
+left:885px;
+}
+#cont{
+font:30px Arial;
+position:absolute;
+top:30px;
+left:1000px;
+}
+#pages{
+font:30px Arial;
+position:absolute;
+top:30px;
+left:1190px;
+}
+input{
+font:30px Arial;
+position:absolute;
+top:30px;
+left:1350px;
+}
